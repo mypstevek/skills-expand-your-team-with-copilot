@@ -1,7 +1,6 @@
 ## Development Environment
 
 For detailed setup and development instructions, please refer to our [Development Guide](../docs/how-to-develop.md).
-
 ### User Interaction
 
 Consider the following when communicating with the staff.
@@ -15,4 +14,4 @@ Consider the following when communicating with the staff.
 - Do not make additional apps or services.
 - Do not make command line tools.
 - Do not create a long single file application. Always use an easy-to-understand directory structure.
-- Only use HTML, CSS, Javascript, and Python. No other languages. 
+- Only use HTML, CSS, Javascript, and Python. No other languages.
